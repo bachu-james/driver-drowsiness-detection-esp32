@@ -1,0 +1,10 @@
+# ESP32 / Arduino / PlatformIO
+.pio/
+.build/
+.vscode/
+*.bin
+*.elf
+
+# OS junk
+Thumbs.db
+.DS_Store
